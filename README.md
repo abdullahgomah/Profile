@@ -1,7 +1,9 @@
 # 💫 About Me:
 🔭 I’m currently working on LMS website<br>🤝 I’m looking for help with coders who can help me to create something new<br>🌱 I’m currently learning JavaScript, Django<br>💬 Ask me about anything <br>⚡ Fun fact, I love reading about money 
 
-var PAT_1=(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)
+<!--#
+PAT_1=(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)
+$-->
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/codingabdullah) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/codingabdullah) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/codingabdullah) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/abdullah_gomah) 
